@@ -16,7 +16,7 @@ function App() {
   return (
     <>
       <div className='bg-green-500 text-black p-4 rounded-xl'>App</div>
-      <Card username="chaiaurcode" btnText='click me' myO={myObj} />
+      <Card username="Bharat" btnText='click me' myO={myObj} />
       <Card username="chaiaurcode" />
     </>
   )
